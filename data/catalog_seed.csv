@@ -1,0 +1,6 @@
+id,brand,category,style_tags,size,condition,price,currency,image_url,affiliate_url
+itm_001,Studio Nicholson,Coat,"minimalist,tailored,neutral",UK10,New,480,GBP,https://images.example.com/sn-coat.jpg,https://retailer.example.com/items/sn-coat
+itm_002,Wales Bonner,Trousers,"sporty,statement,colorpop",UK30,New,320,GBP,https://images.example.com/wb-track.jpg,https://retailer.example.com/items/wb-track
+itm_003,Marant,Blouse,"boho,romantic,feminine",UK8,New,245,GBP,https://images.example.com/marant-blouse.jpg,https://retailer.example.com/items/marant-blouse
+itm_004,A-Cold-Wall*,Sneakers,"streetwear,monochrome,tech",UK9,New,260,GBP,https://images.example.com/acw-sneaker.jpg,https://retailer.example.com/items/acw-sneaker
+itm_005,Totême,Denim,"classic,clean,scandi",UK26,Preowned-Excellent,190,GBP,https://images.example.com/toteme-denim.jpg,https://resale.example.com/items/toteme-denim
